@@ -119,7 +119,7 @@ $wgDiff3 = "/usr/bin/diff3";
 $wgGroupPermissions['*']['createaccount'] = false;
 $wgGroupPermissions['*']['edit'] = false;
 $wgGroupPermissions['*']['read'] = false;
-$wgWhitelistRead = array("MediaWiki:Common.css","-","Main Page","Gourminati","gourminati", "Restaurants");
+$wgWhitelistRead = array("MediaWiki:Common.css","-","Main Page","검증된 맛집", "검증된_맛집");
 
 ## Default skin: you can change the default skin. Use the internal symbolic
 ## names, ie 'vector', 'monobook':
